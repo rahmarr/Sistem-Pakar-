@@ -1,5 +1,7 @@
 # Sistem-Pakar-
 2306146 Siti Rahmawati
+
+
 🧠 Sistem Pakar (Forward Chaining & Backward Chaining)
 Deskripsi
 Repository ini berisi implementasi sistem pakar menggunakan metode Forward Chaining dan Backward Chaining dalam bahasa Python, yang dapat digunakan untuk mendiagnosis penyakit, menyimpulkan fakta, serta menentukan karier berdasarkan gejala atau kondisi tertentu.
